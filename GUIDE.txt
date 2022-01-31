@@ -1,0 +1,28 @@
+git config --global user.name "Your Name"
+git config --global user.email "yourname@example.com"
+git config --global init.defaultBranch main
+git config --global color.ui auto
+//testing only
+//git config --get user.name
+//git config --get user.email
+
+ssh-keygen -t ed25519 -C b.w.primeau@gmail.com
+cat ~/.ssh/id_ed25519.pub
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection
+ssh -T git@github.com
+
+
+REPOS FOLDER>
+git@github.com:ExecutedOnce/odin-recipes.git
+
+CD INTO /FOLDER.GIT
+touch README.md
+
+
+git status
+git add <name>
+git commit
+git add . (ads alll)
+
+git commit -m .
+git commit <name> :wq

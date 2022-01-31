@@ -1,0 +1,9 @@
+[gui]
+	recentrepo = C:/Users/X/Desktop/Repos
+[user]
+	email = b.w.primeau@gmail.com
+	name = ExecutedOnce
+[init]
+	defaultBranch = main
+[color]
+	ui = auto
